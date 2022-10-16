@@ -1,0 +1,15 @@
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\bin\Debug\net6.0\FilterDelegate.exe
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\bin\Debug\net6.0\FilterDelegate.deps.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\bin\Debug\net6.0\FilterDelegate.runtimeconfig.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\bin\Debug\net6.0\FilterDelegate.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\bin\Debug\net6.0\FilterDelegate.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.csproj.AssemblyReference.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.AssemblyInfoInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.AssemblyInfo.cs
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.csproj.CoreCompileInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\refint\FilterDelegate.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\FilterDelegate.genruntimeconfig.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DataStructure\Delegates\FilterDelegate\obj\Debug\net6.0\ref\FilterDelegate.dll
