@@ -1,0 +1,15 @@
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\bin\Debug\net6.0\DateTime.exe
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\bin\Debug\net6.0\DateTime.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\bin\Debug\net6.0\DateTime.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\refint\DateTime.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question1\obj\Debug\net6.0\ref\DateTime.dll

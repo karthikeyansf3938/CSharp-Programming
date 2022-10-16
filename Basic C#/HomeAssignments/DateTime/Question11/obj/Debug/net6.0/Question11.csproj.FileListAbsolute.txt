@@ -1,0 +1,15 @@
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\bin\Debug\net6.0\Question11.exe
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\bin\Debug\net6.0\Question11.deps.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\bin\Debug\net6.0\Question11.runtimeconfig.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\bin\Debug\net6.0\Question11.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\bin\Debug\net6.0\Question11.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.csproj.AssemblyReference.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.AssemblyInfoInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.AssemblyInfo.cs
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.csproj.CoreCompileInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\refint\Question11.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\Question11.genruntimeconfig.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\DateTime\Question11\obj\Debug\net6.0\ref\Question11.dll
