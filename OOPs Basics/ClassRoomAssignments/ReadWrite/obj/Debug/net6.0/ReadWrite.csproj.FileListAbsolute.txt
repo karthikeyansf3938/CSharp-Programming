@@ -1,0 +1,15 @@
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.csproj.AssemblyReference.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.AssemblyInfoInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.AssemblyInfo.cs
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\bin\Debug\net6.0\ReadWrite.exe
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\bin\Debug\net6.0\ReadWrite.deps.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\bin\Debug\net6.0\ReadWrite.runtimeconfig.json
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\bin\Debug\net6.0\ReadWrite.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\bin\Debug\net6.0\ReadWrite.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\refint\ReadWrite.dll
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.pdb
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ReadWrite.genruntimeconfig.cache
+C:\Users\KarthikeyanThangaraj\OneDrive - Syncfusion\Desktop\C#\ReadWrite\obj\Debug\net6.0\ref\ReadWrite.dll
